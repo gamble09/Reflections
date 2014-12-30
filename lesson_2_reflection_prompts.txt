@@ -2,5 +2,11 @@ File status
 	git status
 Git Repository Creation
 	git init
+Remove files from staging
+	git reset	
+
 What happens when you initialize a repository? Why do you need to do it?
-	.Git and meta store	
+	.Git and meta store
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Only files to be commited and intermediate 
