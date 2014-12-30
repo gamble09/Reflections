@@ -1,0 +1,6 @@
+File status 
+	git status
+Git Repository Creation
+	git init
+What happens when you initialize a repository? Why do you need to do it?
+	.Git and meta store	
